@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "astronaut",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7d6e525a-b29d-4034-ae27-3c673b339629"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "3827278c-f5c8-4d0a-b9cc-74117cf6a9e6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
